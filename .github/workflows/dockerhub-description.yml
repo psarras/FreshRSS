@@ -4,8 +4,6 @@ on:
   push:
     paths:
       - Docker/README.md
-    branches:
-      - edge
   workflow_dispatch:
 
 jobs:
